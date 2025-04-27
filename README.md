@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 About Me:
-👨‍💻 Full-Stack Developer specializing in native PHP backends (4 yrs) and React frontends.
+👨‍💻 Full-Stack Developer specializing in native PHP backends (4 yrs) and React Native frontends.
 
 📚 SENA student building GestorPlus and eduSystem, educational platforms and rrhh.
 
@@ -35,7 +35,7 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,c,php,mysql,bootstrap," />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,c,php,mysql,bootstrap," />
 </p>
 
 ---
@@ -54,8 +54,14 @@
 </p>
 
 ---
-
-<p align="center">Thanks for visiting my profile ❤️</p>
+### 🎯 Future Goals & Thoughts
+- 🎓 Graduate from SENA and become a Senior PHP Developer, mastering clean, hexagonal architectures without frameworks.  
+- ⚙️ Automate my “GestorPlus” and “eduSystem” backends with full CI/CD (GitHub Actions, Docker) and robust test coverage (PHPUnit).  
+- 🌐 Evolve both platforms into AI-driven solutions—integrating ChatGPT modules for personalized student feedback and dynamic study planning.  
+- 📱 Release React Native mobile versions of my apps (iOS & Android) with secure JWT auth, real-time updates via WebSockets (Swoole).  
+- ☁️ Deploy scalable, containerized services on cloud providers (AWS/GCP) using MariaDB + Nginx, and monitor them with Prometheus & Grafana.  
+- 🤝 Open-source key components (custom Neovim plugins, BSPWM/Polybar configs, PHP utility libraries) to give back to the community.  
+- 💭 **Pensamiento:** “El conocimiento debe ser concreto para poder abrirse a nuevas expectativas; más allá de estar estático, siempre habrá una nueva oportunidad de aprendizaje en tu día a día.”  
 
 <!--
 [Englis666](https://github.com/Englis666)
