@@ -2,8 +2,9 @@
 <h3 align="center">🌟 Estudiante del SENA | Futuro Desarrollador Web 🌟<br>🌟 SENA Student | Future Web Developer 🌟</h3>
 
 - 💭 **Pensamiento / Thought:**  
-  “El conocimiento debe ser concreto para poder abrirse a nuevas expectativas; más allá de estar estático, siempre habrá una nueva oportunidad de aprendizaje en tu día a día.”  
-  “Knowledge must be concrete in order to open itself to new expectations; beyond being static, there will always be a new learning opportunity in your day-to-day.”  
+  > “Mi saber nace de lo tangible y se expande hacia nuevas posibilidades; nunca permanezco estático, porque cada día trae consigo una invitación a crecer.”  
+  > “My knowledge springs from the tangible and unfolds into new possibilities; I never remain static, for each day brings an invitation to grow.”  
+
 
 <br>
 
