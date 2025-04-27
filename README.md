@@ -1,9 +1,8 @@
 <h1 align="center">Hey 👋, I'm Englis (Acnth666)</h1>
 <h3 align="center">🌟 SENA Student | Future Web Developer 🌟</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Englis666&label=Profile%20views&color=6A5ACD&style=flat-square" alt="Englis666" />
-</p>
+- 💭 **Pensamiento:** “El conocimiento debe ser concreto para poder abrirse a nuevas expectativas; más allá de estar estático, siempre habrá una nueva oportunidad de aprendizaje en tu día a día.”  
+
 
 <br>
 
@@ -61,7 +60,6 @@
 - 📱 Release React Native mobile versions of my apps (iOS & Android) with secure JWT auth, real-time updates via WebSockets (Swoole).  
 - ☁️ Deploy scalable, containerized services on cloud providers (AWS/GCP) using MariaDB + Nginx, and monitor them with Prometheus & Grafana.  
 - 🤝 Open-source key components (custom Neovim plugins, BSPWM/Polybar configs, PHP utility libraries) to give back to the community.  
-- 💭 **Pensamiento:** “El conocimiento debe ser concreto para poder abrirse a nuevas expectativas; más allá de estar estático, siempre habrá una nueva oportunidad de aprendizaje en tu día a día.”  
 
 <!--
 [Englis666](https://github.com/Englis666)
