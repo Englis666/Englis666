@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 About Me:
-👨‍💻 Full-Stack Developer specializing in native PHP backends (4 yrs) and React Native frontends.
+👨‍💻 Full-Stack Developer specializing in native PHP backends (4 yrs) and React frontends.
 
 📚 SENA student building GestorPlus and eduSystem, educational platforms and rrhh.
 
