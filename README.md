@@ -14,28 +14,28 @@
 ---
 
 ### 🚀 About Me:
-- 🌱 Currently learning **Web Development**, **JavaScript**, and **Backend Technologies**.
-- 🎯 Passionate about **building projects**, **learning new tech**, and **self-improvement**.
-- 📫 Reach me at **adampithewan@gmail.com**
-- 🎵 Fun Fact: *Food and music are my energy boosters.*
+👨‍💻 Full-Stack Developer specializing in native PHP backends (4 yrs) and React Native frontends.
 
+📚 SENA student building GestorPlus and eduSystem, educational platforms and rrhh.
+
+🕸️ Migrating legacy PHP + Bootstrap apps to modern React Native & RESTful APIs with JWT authentication.
+
+📫 Get in touch at eabarros2610@gmail.com
+
+🎶 Fun fact: My code flows better with good music and coffee!
 ---
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/adam-pithewan" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://fb.com/adam pithen wala" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
-  <a href="https://instagram.com/_._.adam._" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-  <a href="https://www.hackerrank.com/adampithewan" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" height="40"/></a>
-  <a href="https://twitter.com/adam_pithenwala" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="https://www.linkedin.com/in/englis-alexander-barros-osuna-775376343/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  
 </p>
 
 ---
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,c,cpp,mysql,bootstrap,sass,pandas" />
-  <img src="https://skillicons.dev/icons?i=illustrator,photoshop" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,c,php,mysql,bootstrap," />
 </p>
 
 ---
