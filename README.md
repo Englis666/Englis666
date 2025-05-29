@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,nodejs,python,php,laravel,mysql,mariadb,docker,nginx,bootstrap,obsidian,linux,bash,npm,composer,git,jwt" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,nodejs,python,php,laravel,mysql,mariadb,docker,nginx,bootstrap,obsidian,linux,bash,npm,composer,git,jwt,archlinux" alt="Skills" />
 </p>
 
 <p align="center">
