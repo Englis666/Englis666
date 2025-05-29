@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Englis666&layout=compact&theme=radical&hide_border=true" alt="Englis666 Top Languages" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,nodejs,python,php,laravel,mysql,mariadb,docker,nginx,bootstrap,obsidian,linux,bash,npm,composer,git,jwt" alt="Skills" />
 </p>
 
 <p align="center">
