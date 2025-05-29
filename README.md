@@ -39,7 +39,7 @@
 
 ### 🛠️ Idiomas y Herramientas / Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,php,mysql,bootstrap,laravel" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,php,mysql,bootstrap,laravel,docker,react-native" alt="Skills" />
 </p>
 
 ---
