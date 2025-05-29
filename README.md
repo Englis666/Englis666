@@ -39,7 +39,7 @@
 
 ### 🛠️ Idiomas y Herramientas / Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,php,mysql,bootstrap,laravel,docker,bash" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,php,mysql,bootstrap,laravel,docker,bash](https://skillicons.dev/icons?i=html,css,js,react,reactnative,nodejs,python,php,laravel,mysql,mariadb,docker,nginx,bootstrap,obsidian,linux,bash,npm,composer,git,jwt,archlinux" alt="Skills" />
 </p>
 
 ---
@@ -47,10 +47,6 @@
 ### 📊 Estadísticas de GitHub / GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Englis666&show_icons=true&theme=radical&hide_border=true" alt="Englis666 Stats" />
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,nodejs,python,php,laravel,mysql,mariadb,docker,nginx,bootstrap,obsidian,linux,bash,npm,composer,git,jwt,archlinux" alt="Skills" />
 </p>
 
 <p align="center">
