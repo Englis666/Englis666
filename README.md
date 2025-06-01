@@ -38,10 +38,29 @@
 ## 🛠️ Lenguajes y Herramientas / Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,react,nodejs,mysql,mariadb,nginx,laravel,bootstrap,docker,obsidian,linux,bash,composer,npm,git,redis" alt="skills"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=vscode,github" alt="tools"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,react,nodejs,mysql,mariadb,nginx,laravel,bootstrap,docker,obsidian,bash,composer,npm,git,redis" alt="skills"/>
 </p>
+
+<h3 align="center">⚙️ Mis Herramientas</h3>
+
+<p align="center">
+  <!-- Herramientas de desarrollo -->
+  <img src="https://skillicons.dev/icons?i=vscode,github,linux,docker" alt="tools" />
+  <br><br>
+
+  <!-- Íconos personalizados -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="Arch Linux" width="40"/>
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bspwm_logo.svg" alt="BSPWM" width="40"/>
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Hyprland_logo.svg" alt="Hyprland" width="40"/>
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Polybar_logo.svg" alt="Polybar" width="40"/>
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Konsole_icon.svg" alt="Konsole" width="40"/>
+</p>
+
+
 
 ---
 
