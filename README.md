@@ -49,7 +49,7 @@
   <br><br>
 
   <!-- Íconos personalizados -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="Arch Linux" width="40"/>
+  <img src="https://archlinux.org/static/logos/archlinux-logo-white-scalable.svg" alt="ArchLinux" width="40"/>
   &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bspwm_logo.svg" alt="BSPWM" width="40"/>
   &nbsp;
