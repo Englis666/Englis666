@@ -34,7 +34,7 @@
 ## 🛠️ Lenguajes y Herramientas / Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,react,nodejs,mysql,mariadb,nginx,laravel,bootstrap,docker,obsidian,bash,composer,npm,git,redis" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,react,nodejs,mysql,mysql,nginx,laravel,bootstrap,docker,obsidian,bash,composer,npm,git,redis" alt="skills"/>
 </p>
 
 <h3 align="center">⚙️ Mis Herramientas</h3>
