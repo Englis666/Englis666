@@ -1,13 +1,5 @@
-<h1 align="center">Hey 👋, I'm Englis (Acnth666)</h1>
-<h3 align="center">🌟 Estudiante del SENA | Futuro Desarrollador Web 🌟<br>🌟 SENA Student | Future Web Developer 🌟</h3>
-
----
-
-💭 **Pensamiento / Thought**  
-> “Mi saber nace de lo tangible y se expande hacia nuevas posibilidades; nunca permanezco estático, porque cada día trae consigo una invitación a crecer.”  
-> “My knowledge springs from the tangible and unfolds into new possibilities; I never remain static, for each day brings an invitation to grow.”
-
----
+<h1 align="center">👋 Hey, soy Englis (Acnth666)</h1>
+<h3 align="center">🌟 Estudiante del SENA | Desarrollador Full-Stack & entusiasta de la Ciberseguridad 🌟</h3>
 
 <p align="center">
   <img src="https://github.com/Englis666/Englis666/blob/main/animation_500_kxa883sd.gif" alt="Englis666" width="400px"/>
@@ -15,21 +7,27 @@
 
 ---
 
-### 🚀 Sobre mí / About Me
+## 💡 Pensamiento / Thought
 
-- 👨‍💻 **Desarrollador Full-Stack**, experto en PHP nativo (4 años) y frontends con React Native.  
-  **Full-Stack Developer**, experienced in native PHP (4 years) and React Native frontends.
-- 🧠 **Estudiante SENA**, construyendo **GestorPlus** y **eduSystem**: plataformas para RR.HH. y educación basadas en IA.  
-  **SENA Student**, building **GestorPlus** and **eduSystem**: AI-enhanced HR and educational platforms.
-- 🔄 Transformando sistemas legacy en soluciones modernas: PHP + Bootstrap → React Native + REST API + JWT.  
-  Migrating legacy systems to modern stacks: PHP + Bootstrap → React Native + REST APIs + JWT.
-- ✉️ Contáctame / Contact me: **eabarros2610@gmail.com**
+> “Mi saber nace de lo tangible y se expande hacia nuevas posibilidades; nunca permanezco estático, porque cada día trae consigo una invitación a crecer.”  
+> “My knowledge springs from the tangible and unfolds into new possibilities; I never remain static, for each day brings an invitation to grow.”
 
 ---
 
-### 🌐 Conecta conmigo / Connect with Me
+## 🚀 Sobre mí / About Me
 
-<p align="left">
+- 👨‍💻 **Full-Stack Developer** con 3 años de experiencia en backends con PHP nativo y frontends
+- 📚 **Estudiante del SENA** desarrollando sistemas reales como **GestorPlus** (RR.HH) y **eduSystem** (Educación + IA).
+- 🔐 Explorando **ciberseguridad** con Python: herramientas de **DDoS, inyecciones SQL/XSS**, análisis de tráfico, sniffers y exploits personalizados.
+- 🧠 Apasionado por la programación de bajo nivel, algoritmos, arquitectura hexagonal y automatización DevOps.
+- 🔧 Migrando proyectos legacy en PHP+Bootstrap a React Native + JWT + WebSockets (Swoole).
+- 📫 Contáctame: **eabarros2610@gmail.com**
+
+---
+
+## 🌐 Conecta conmigo / Connect with me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/englis-alexander-barros-osuna-775376343/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
@@ -37,42 +35,56 @@
 
 ---
 
-### 🛠️ Tecnologías y Herramientas / Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,nodejs,python,mysql,mariadb,docker,nginx,bootstrap,linux,bash,npm,composer,git,redis,obsidian,archlinux" alt="Tech stack" />
-</p>
-
----
-
-### 📊 GitHub Stats
+## 🛠️ Lenguajes y Herramientas / Languages & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Englis666&show_icons=true&theme=radical&hide_border=true" alt="Englis666 Stats" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,react,nodejs,mysql,mariadb,nginx,laravel,bootstrap,docker,obsidian,linux,bash,composer,npm,git,redis" alt="skills"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=archlinux,vscode,neovim,github,supabase,vercel" alt="tools"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Englis666&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Englis666&theme=radical&hide_border=true" alt="Englis666 Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Englis666&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🎯 Objetivos y Visión / Goals & Vision
+## 🎯 Metas Futuras & Retos / Future Goals & Challenges
 
-- 🎓 Graduarme como **Desarrollador PHP Senior**, dominando arquitectura limpia y hexagonal sin frameworks.  
-  Graduate as a **Senior PHP Developer**, mastering clean and hexagonal architecture without frameworks.
-- ⚙️ Automatizar mis proyectos con CI/CD (GitHub Actions, Docker) y pruebas unitarias con PHPUnit.  
-  Automate my projects using CI/CD pipelines and robust PHPUnit testing.
-- 🤖 Integrar IA (ChatGPT) para feedback inteligente y planes de estudio personalizados en **eduSystem**.  
-  Integrate AI (ChatGPT) for personalized feedback and adaptive learning in **eduSystem**.
-- 📱 Lanzar apps móviles en React Native (iOS & Android) con JWT y WebSockets (Swoole) en tiempo real.  
-  Release mobile apps with React Native + JWT authentication + real-time WebSockets (Swoole).
-- ☁️ Desplegar servicios en la nube (AWS/GCP) con contenedores, MariaDB, Nginx, monitoreo con Prometheus + Grafana.  
-  Deploy scalable cloud services (AWS/GCP) using containers, MariaDB, Nginx, monitored with Prometheus + Grafana.
-- 💻 Contribuir a la comunidad open-source con plugins para Neovim, configuraciones BSPWM/Polybar y librerías PHP.  
-  Contribute to open-source with Neovim plugins, BSPWM/Polybar configs, and useful PHP libraries.
+- 🎓 Graduarme del **SENA** como tecnólogo en análisis y desarrollo, con un perfil técnico sólido y adaptable.
+- 🛠 Convertirme en **Senior PHP Developer** dominando **arquitecturas limpias, hexagonales y sin frameworks**.
+- ⚔️ Profundizar en **ciberseguridad ofensiva**, creando herramientas propias de **penetration testing, DDoS, bypass de firewalls y backdoors** en Python.
+- ⚙️ Automatizar mis backends con **CI/CD**, contenedores Docker y pruebas automatizadas con PHPUnit.
+- 📱 Publicar versiones móviles de mis sistemas (iOS & Android) con **autenticación JWT y WebSockets**.
+- 🤖 Integrar módulos de IA como **ChatGPT API** para generación de planes de estudio, feedback educativo y análisis de progreso.
+- ☁️ Desplegar mis sistemas en la nube (**AWS/GCP**) usando **MariaDB + Nginx**, monitorizados con **Prometheus & Grafana**.
+- 💥 Explorar lenguajes como **Go y Rust** para backends más robustos y sistemas de alto rendimiento.
+- 🧩 Contribuir al **open-source**:  
+  - Plugins para **Neovim**  
+  - Configuraciones avanzadas para **BSPWM + Polybar**  
+  - Librerías útiles en **PHP y Python**
 
 ---
 
-🧠 *"Código con propósito, diseño con intención, y aprendo con pasión."*  
-*"Code with purpose, design with intent, and learn with passion."*
+## 🧠 Ahora mismo estoy...
+
+- ✅ Desarrollando sistemas en PHP puro con JWT y APIs REST.
+- ✅ Dominando la arquitectura hexagonal sin frameworks.
+- ✅ Programando scripts de automatización y seguridad en Python.
+- ✅ Personalizando mi entorno Linux (**BSPWM, Neovim, Oh My Zsh, Kitty**).
+- ✅ Migrando frontend a **React Native** con diseño UI/UX moderno.
+- ✅ Estudiando conceptos avanzados de **redes, sockets y ciberseguridad**.
+
+---
+
+<p align="center">
+  <b>Gracias por pasar por aquí ☕ — el código sigue corriendo...</b>
+</p>
