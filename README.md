@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mí / About Me
 
-- 👨‍💻 Full-Stack Developer con 3+ años de experiencia en desarrollo moderno con **PHP** 
+- 👨‍💻 Full-Stack Developer con 3 años de experiencia en desarrollo moderno con **PHP** 
 - 🏫 Estudiante del **SENA**, desarrollando sistemas reales
 - 🔰 En aprendizaje activo de **Laravel** para fortalecer mis conocimientos y crear apps robustas y escalables.
 - 🔐 Explorando **ciberseguridad ofensiva** con Python: DDoS, inyecciones SQL/XSS, sniffers, exploits personalizados y bypass de firewalls.
