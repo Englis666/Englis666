@@ -40,7 +40,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,react,nodejs,mysql,mariadb,nginx,laravel,bootstrap,docker,obsidian,linux,bash,composer,npm,git,redis" alt="skills"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=archlinux,vscode,neovim,github,supabase,vercel" alt="tools"/>
+  <img src="https://skillicons.dev/icons?i=vscode,github" alt="tools"/>
 </p>
 
 ---
