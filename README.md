@@ -7,17 +7,11 @@
 
 ---
 
-## 💡 Pensamiento / Thought
-
-> “Mi saber nace de lo tangible y se expande hacia nuevas posibilidades; nunca permanezco estático, porque cada día trae consigo una invitación a crecer.”  
-> “My knowledge springs from the tangible and unfolds into new possibilities; I never remain static, for each day brings an invitation to grow.”
-
----
 
 ## 🚀 Sobre mí / About Me
 
-- 👨‍💻 Full-Stack Developer con 3+ años de experiencia en desarrollo moderno con **phpNative** (PHP con plantillas Blade) para aplicaciones de escritorio y móviles.
-- 🏫 Estudiante del **SENA**, desarrollando sistemas reales como **GestorPlus (RRHH)** y **eduSystem (Educación + IA)**.
+- 👨‍💻 Full-Stack Developer con 3+ años de experiencia en desarrollo moderno con **PHP** 
+- 🏫 Estudiante del **SENA**, desarrollando sistemas reales
 - 🔰 En aprendizaje activo de **Laravel** para fortalecer mis conocimientos y crear apps robustas y escalables.
 - 🔐 Explorando **ciberseguridad ofensiva** con Python: DDoS, inyecciones SQL/XSS, sniffers, exploits personalizados y bypass de firewalls.
 - 🌐 Migrando proyectos legacy a arquitecturas modernas con **JWT, WebSockets (Swoole)** y frontend en **React Native** con enfoque UI/UX.
@@ -80,15 +74,11 @@
 
 ## 🧠 Actualmente estoy...
 
-- ✅ Desarrollando sistemas en **phpNative** usando plantillas Blade para apps modernas.
+- ✅ Estudiando y desarollando sistemas en **phpNative** usando plantillas Blade para apps de escritorio y moviles.
 - ✅ Estudiando y practicando **Laravel** para fortalecer mi stack PHP.
-- ✅ Programando scripts de automatización y seguridad en Python.
+- ✅ Programando scripts de automatización y seguridad en Python o Bash.
 - ✅ Personalizando mi entorno Linux (**BSPWM, Neovim, Oh My Zsh, Kitty**).
-- ✅ Migrando frontend legacy a **React Native** con enfoque UI/UX moderno.
-- ✅ Profundizando en redes, sockets y ciberseguridad avanzada.
+- ✅ Migrando frontend legacy a **React Native/ React** con enfoque UI/UX moderno.
+- ✅ Empezando a estudiar en redes, sockets y ciberseguridad avanzada.
 
 ---
-
-<p align="center">
-  <b>Gracias por pasar por aquí ☕ — el código sigue corriendo...</b>
-</p>
