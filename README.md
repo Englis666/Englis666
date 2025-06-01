@@ -46,7 +46,7 @@
 <p align="center">
   <!-- Herramientas de desarrollo -->
   <img src="https://skillicons.dev/icons?i=vscode,github,linux,docker" alt="tools" />
-  <img src="https://archlinux.org/static/logos/archlinux-logo-white-scalable.svg" alt="ArchLinux" width="90"/>
+  <img src="https://archlinux.org/static/logos/archlinux-logo-white-scalable.svg" alt="ArchLinux" width="90" top="5"/>
   <br><br>
 
 
