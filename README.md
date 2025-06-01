@@ -46,18 +46,12 @@
 <p align="center">
   <!-- Herramientas de desarrollo -->
   <img src="https://skillicons.dev/icons?i=vscode,github,linux,docker" alt="tools" />
+  <img src="https://archlinux.org/static/logos/archlinux-logo-white-scalable.svg" alt="ArchLinux" width="40"/>
   <br><br>
 
   <!-- Íconos personalizados -->
-  <img src="https://archlinux.org/static/logos/archlinux-logo-white-scalable.svg" alt="ArchLinux" width="40"/>
-  &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bspwm_logo.svg" alt="BSPWM" width="40"/>
-  &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Hyprland_logo.svg" alt="Hyprland" width="40"/>
-  &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Polybar_logo.svg" alt="Polybar" width="40"/>
-  &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Konsole_icon.svg" alt="Konsole" width="40"/>
+  <img src="https://www.streamlinehq.com/icons/download/hyprland--31088" alt="Hyprland" width="40"/>
+
 </p>
 
 
