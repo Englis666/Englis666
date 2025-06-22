@@ -56,6 +56,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Englis666&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Englis666&layout=compact&show_icons=true&theme=radical)
+
 ---
 
 ## 🎯 Metas Futuras & Retos / Future Goals & Challenges
