@@ -1,86 +1,44 @@
-<h1 align="center">👋 Hey, soy Englis (Acnth666)</h1>
-<h3 align="center">🌟 Estudiante del SENA | Desarrollador Full-Stack | Entusiasta de la Ciberseguridad 🌟</h3>
+<h1 align="center">👋 Hey, soy Englis (Acnth666)</h1> <h3 align="center">🚀 Desarrollador Full-Stack | Arquitecto de Software en Formación | Apasionado por la Seguridad, la Performance y la Arquitectura Hexagonal + EDA</h3> <p align="center"> <img src="https://github.com/Englis666/Englis666/blob/main/animation_500_kxa883sd.gif" alt="Englis666" width="400px"/> </p>
+🧠 Sobre mí
 
-<p align="center">
-  <img src="https://github.com/Englis666/Englis666/blob/main/animation_500_kxa883sd.gif" alt="Englis666" width="400px"/>
-</p>
+    💼 Actualmente aplicando y perfeccionando arquitectura hexagonal combinada con EDA (Event-Driven Architecture) en múltiples sistemas reales.
 
----
+    🎓 Realizando prácticas profesionales en 5 empresas al mismo tiempo, adquiriendo experiencia diversa en entornos exigentes y de producción.
 
+    🧩 Desarrollo Full-Stack híbrido en PHP, Python, Go, y avanzando en C++ con enfoque en sistemas de alto rendimiento.
 
-## 🚀 Sobre mí / About Me
+    ⚙️ Trabajando en un sistema empresarial robusto con foco en rendimiento, asincronía en PHP, y escalabilidad horizontal, orientado a reemplazar soluciones ERP monolíticas.
 
-- 👨‍💻 Full-Stack Developer con 3 años de experiencia en desarrollo moderno con **PHP** 
-- 🏫 Estudiante del **SENA**, desarrollando sistemas reales
-- 🔰 En aprendizaje activo de **Laravel** para fortalecer mis conocimientos y crear apps robustas y escalables.
-- 🔐 Explorando **ciberseguridad ofensiva** con Python: DDoS, inyecciones SQL/XSS, sniffers, exploits personalizados y bypass de firewalls.
-- 🌐 Migrando proyectos legacy a arquitecturas modernas con **JWT, WebSockets (Swoole)** y frontend en **React Native** con enfoque UI/UX.
-- 🧠 Apasionado por la programación de bajo nivel, algoritmos, arquitectura hexagonal y automatización DevOps.
-- ⚙️ Automatizando despliegues y pruebas con Docker, CI/CD y PHPUnit.
-- 📫 Contáctame: **eabarros2610@gmail.com**
+    🔐 Apasionado por la ciberseguridad, arquitectura avanzada, rendimiento, DevOps y automatización.
 
----
+    🌐 Migrando backends legacy a arquitecturas modernas con JWT, WebSockets, PHP async (Swoole/Fiber) y microservicios desacoplados.
 
-## 🌐 Conecta conmigo / Connect with me
+    🧠 Fuerte mentalidad autodidacta, me encanta construir desde el low-level hasta el diseño de producto final.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/englis-alexander-barros-osuna-775376343/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
-  </a>
-</p>
+🚀 Stack Actual y Habilidades Avanzadas
+Área	Detalle
+🧱 Arquitectura	Hexagonal, EDA, Clean Architecture, DDD, Modular, Event Sourcing
+🧠 Lenguajes	PHP, Python, Go, C++ (en aprendizaje activo)
+⚙️ Backend	Laravel, phpNative, Swoole, WebSockets, Microservicios, REST APIs
+🧪 Testing y DevOps	PHPUnit, Docker, CI/CD, Linux, monitoreo con Prometheus + Grafana
+📱 Frontend	React, React Native, Blade, UI/UX Moderno
+🔐 Ciberseguridad	Pentesting, Exploits, DDoS, XSS/SQLi, bypass de firewalls
+📚 Interés actual	Rendimiento extremo, asincronía en PHP, integración de IA y C++
+🎯 Metas Actuales
 
----
+    ✅ Consolidar sistemas híbridos multi-lenguaje con rendimiento y mantenibilidad real.
 
-## 🛠️ Lenguajes y Herramientas / Languages & Tools
+    ✅ Dominar por completo la arquitectura hexagonal + EDA aplicada en producción.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,react,nodejs,mysql,nginx,laravel,bootstrap,docker,obsidian,bash,composer,npm,git,redis" alt="skills"/>
-</p>
+    ✅ Potenciar rendimiento backend con asincronía, workers, colas y arquitectura reactiva.
 
-<h3 align="center">⚙️ Mis Herramientas</h3>
+    ✅ Avanzar en C++ para uso en módulos de alto rendimiento o bajo nivel.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,linux,docker" alt="tools" />
-  <img src="https://archlinux.org/static/logos/archlinux-logo-white-scalable.svg" alt="ArchLinux" width="90" style="margin-left:15px;vertical-align:middle;"/>
-</p>
+    ✅ Desarrollar herramientas propias de automatización y seguridad ofensiva.
 
----
+    ✅ Seguir construyendo soluciones empresariales que reemplacen sistemas monolíticos legacy.
 
-## 📊 GitHub Stats
+📫 Contáctame
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Englis666&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Englis666&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Englis666&layout=compact&show_icons=true&theme=radical)
-
----
-
-## 🎯 Metas Futuras & Retos / Future Goals & Challenges
-
-- 🎓 Graduarme del **SENA** como tecnólogo en análisis y desarrollo, con perfil técnico sólido y adaptable.
-- 🛠 Convertirme en **Senior Developer en phpNative y Laravel**, dominando arquitecturas limpias, hexagonales y modernas.
-- ⚔️ Profundizar en **ciberseguridad ofensiva**, creando herramientas propias de penetration testing, DDoS, backdoors y bypass en Python.
-- ⚙️ Automatizar backends con **CI/CD, Docker y pruebas automatizadas** (PHPUnit).
-- 📱 Publicar versiones móviles y de escritorio de mis apps con **phpNative (Blade) y React Native**, usando JWT y WebSockets.
-- 🤖 Integrar IA con **ChatGPT API** para generación de planes de estudio y feedback educativo.
-- ☁️ Desplegar sistemas en la nube (AWS/GCP) con MariaDB + Nginx y monitoreo con Prometheus y Grafana.
-- 💥 Explorar nuevos lenguajes backend como **Go y Rust** para sistemas robustos y de alto rendimiento.
-- 🧩 Contribuir en open source: plugins para Neovim, configuraciones para BSPWM + Polybar y librerías en PHP y Python.
-
----
-
-## 🧠 Actualmente estoy...
-
-- ✅ Estudiando y desarollando sistemas en **phpNative** usando plantillas Blade para apps de escritorio y moviles.
-- ✅ Estudiando y practicando **Laravel** para fortalecer mi stack PHP.
-- ✅ Programando scripts de automatización y seguridad en Python o Bash.
-- ✅ Personalizando mi entorno Linux (**BSPWM, Neovim, Oh My Zsh, Kitty**).
-- ✅ Migrando frontend legacy a **React Native/ React** con enfoque UI/UX moderno.
-- ✅ Empezando a estudiar en redes, sockets y ciberseguridad avanzada.
-
----
+Email: eabarros2610@gmail.com
+LinkedIn: Englis Alexander Barros Osuna
